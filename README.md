@@ -18,3 +18,6 @@ You can choose to compress and decompress into these Formats:
   * B-Zipped Tar Archive (.tar.bz)  
   * X-Zipped Tar Archive (.tar.xz)  
   * Plain Tar Archive (.tar)  
+
+![](https://ftp.hdljohanna.repl.co/img/0/wintar-compress.png)  
+![](https://ftp.hdljohanna.repl.co/img/0/wintar-decompress.png)  
